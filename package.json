@@ -4,7 +4,7 @@
   "description": "An Othello game.",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "prompt-sync": "^4.1.6",
     "prompt-sync-history": "^1.0.1"
   },
